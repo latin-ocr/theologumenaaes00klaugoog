@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologumenaaes00klaugoog_0009.png"; bbox 0 0 2594 4530; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 1526 1212 1672">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 1526 1212 1672">
+     <span class='ocr_line' id='line_1_1' title="bbox 389 1526 1212 1672; baseline 0.006 -23"><span class='ocrx_word' id='word_1_1' title='bbox 389 1580 515 1660; x_wconf 77' lang='grc' dir='ltr'><strong><em>Παῖδες</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 533 1576 595 1670; x_wconf 72' lang='grc' dir='ltr'><strong><em>γὰρ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 615 1583 712 1670; x_wconf 68' lang='grc' dir='ltr'><em>ἀνδρὶ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 728 1580 875 1668; x_wconf 73' lang='grc' dir='ltr'><strong><em>κληδόνες</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 896 1581 1055 1672; x_wconf 76' lang='grc' dir='ltr'><strong><em>σωτήριοι.</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1114 1618 1117 1623; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1189 1526 1212 1551; x_wconf 42' lang='lat' dir='ltr'><em>r</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 683 1698 1016 1768">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 683 1698 1016 1768">
+     <span class='ocr_line' id='line_1_2' title="bbox 683 1698 1016 1768; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 683 1698 690 1707; x_wconf 84' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 723 1699 837 1766; x_wconf 79' lang='lat' dir='ltr'>Aesch.</span> <span class='ocrx_word' id='word_1_10' title='bbox 861 1700 918 1765; x_wconf 89' lang='lat' dir='ltr'><strong><em>Ch.</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 944 1702 1016 1768; x_wconf 74' lang='lat'><strong><em>505.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1302 4530">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1302 4530">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1302 4530; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1302 4530; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
